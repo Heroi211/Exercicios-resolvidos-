@@ -1,0 +1,2 @@
+Crie um sistema em console, que receba o cadastro de n produtos com id, nome,
+preço e quantidade em estoque, e por fim imprima na tela os itens recebidos com seus respectivos valores totais.
